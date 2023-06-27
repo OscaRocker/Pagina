@@ -43,7 +43,8 @@ p{
 }
 #img{
     display: flex;
-    flex-wrap:flex;    
+    flex-wrap:flex;
+    justify-content: space-between;
 }
 button {
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
