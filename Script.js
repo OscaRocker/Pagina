@@ -1,4 +1,3 @@
-function showAlert() { alert ('¡Hello, deja el Show!'); }
 document.querySelector("button.button-menu-toggle")
     .addEventListener("click", function() {
            document.querySelector(".nav-links").
